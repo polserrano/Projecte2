@@ -47,3 +47,12 @@ Les activitats principals inclouen:
 - **Treball en equip** i **col·laboració**.  
 - **Rigor tècnic** i documentació clara.  
 - **Adaptabilitat** i **aprenentatge continu**.
+
+---
+
+## 📁 Tasques
+
+Aquestes seran las tasques que hi hauran en aquests repositori.
+
+- [Tasca 2](/tasca_02)
+- [Tasca 3]()
