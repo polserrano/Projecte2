@@ -1,3 +1,4 @@
 # Hola
 
-[Torna a la pàgina principal](../README.md)
+[Torna a la pàgina principal](../)
+
