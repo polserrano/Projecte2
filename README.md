@@ -52,7 +52,7 @@ Les activitats principals inclouen:
 
 ## 📁 Tasques
 
-Aquestes seran las tasques que hi hauran en aquests repositori.
+Aquestes seran las tasques que hi hauran en aquests projecte.
 
 - [Tasca 2](/tasca_02)
 - [Tasca 3](/tasca_03)
