@@ -1,4 +1,4 @@
-# Introducció a la tasca T02
+# Introducció a la tasca T02 🖨️
 
 TecnoGestió S.L. és una empresa dedicada a la gestió documental i l’assessorament informàtic que compta amb un petit despatx equipat amb quatre ordinadors de sobretaula, una impressora-fotocopiadora multifunció i un router d’accés a Internet. La direcció ha detectat que les incidències amb el subministrament elèctric són freqüents a la zona, fet que pot comprometre la continuïtat del servei i la integritat dels equips. 
 
@@ -18,6 +18,7 @@ Aquest procés permetrà garantir la seguretat de la infraestructura informàtic
 - Pots trobar la solució de la tasca en l'arxiu [solucio.md](/tasca_02/solucio.md)
 
 - [Torna a la pàgina principal](../)
+
 
 
 
