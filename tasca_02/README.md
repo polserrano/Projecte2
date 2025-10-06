@@ -15,9 +15,10 @@ L’objectiu d’aquesta tasca és realitzar un estudi complet per a la tria del
 Aquest procés permetrà garantir la seguretat de la infraestructura informàtica de TecnoGestió S.L., minimitzant els riscos derivats de les interrupcions elèctriques.
 
 
-- Pots trobar la solució en l'arxiu [solucio.md](/tasca_02/solucio.md)
+- Pots trobar la solució de la tasca en l'arxiu [solucio.md](/tasca_02/solucio.md)
 
 - [Torna a la pàgina principal](../)
+
 
 
 
