@@ -17,8 +17,8 @@ Finalment, es comparen diversos models de SAI disponibles al mercat per seleccio
 5. Càlcul de la potència total  
 6. Determinació de l’autonomia  
 7. Recerca del model de SAI  
-8. Conclusió de la tasca  
-
+8. Imatges de SAI's seleccionats
+9. Conclusió de la tasca
 ---
 
 ## 3. Inventari d’equips
@@ -81,7 +81,15 @@ Per més seguretat, es recomanen models que ofereixin **10–15 minuts** a plena
 
 ---
 
-## 8. Conclusió de la tasca
+## 8. Imatges de SAI's seleccionats
+
+![Vertiv Liebert GXT MT 2 kVA G2 ES](/tasca_02/img/sai_1.png)
+![Salicru SPS Advance RT2](/tasca_02/img/sai_2.png)
+![Riello Vision VST 2000 SAI](/tasca_02/img/sai_3.png)
+---
+
+## 9. Conclusió de la tasca
 Després d’analitzar els equips, la seva potència i les necessitats d’autonomia, s’ha determinat que un **SAI amb capacitat aproximada de 2000 VA i 1600 W** és suficient per garantir el funcionament dels ordinadors, monitors i router durant almenys **10 minuts**.  
 
 En definitiva, la selecció adequada del SAI permet **minimitzar riscos, evitar la pèrdua de dades i assegurar la continuïtat de l’activitat de l’empresa** davant interrupcions del subministrament elèctric.
+
