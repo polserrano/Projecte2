@@ -55,4 +55,4 @@ Les activitats principals inclouen:
 Aquestes seran las tasques que hi hauran en aquests repositori.
 
 - [Tasca 2](/tasca_02)
-- [Tasca 3]()
+- [Tasca 3](/tasca_03)
