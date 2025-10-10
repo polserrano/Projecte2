@@ -18,9 +18,11 @@ Finalment, generarem un **informe tècnic** amb els passos seguits, les mesures 
 - Apunts *RA1AA4 - Seguretat Lògica*  
 - [Recuperant Password en Linux (WayToIT, 2013)](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/)
 
+---
 
 - Pots trobar la solució en l'arxiu [solucio.md](/tasca_03/solucio.md)
 
 - [Torna a la pàgina principal](../)
+
 
 
