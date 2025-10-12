@@ -57,16 +57,16 @@ Abans de donar-li a `Finish` al crear la màquina, anirem a l’apartat **Hard D
 Per entrar en aquest mode, haurem d’iniciar la màquina i, un cop iniciada, **prémer la tecla Mayús + una lletra**.  
 Quan aparegui el menú, seleccionarem la **segona opció** per entrar a les opcions avançades.
 
-![imatge_2](imatge_2)
+![imatge_2](imatge_2.png)
 
 Després, apareixerà un altre pop-up, on seleccionarem de nou la **segona opció**, que correspon al **recovery mode**.  
 Dins d’aquest mode, triarem l’opció **root**, que ens permetrà canviar paràmetres del sistema.
 
-![imatge_3](imatge_3)
+![imatge_3](imatge_3.png)
 
 Ara ens trobem a la **terminal com a root**, des d’on podem executar canvis al sistema.
 
-![imatge_4](imatge_4)
+![imatge_4](imatge_4.png)
 
 ---
 
@@ -77,4 +77,5 @@ Ara ens trobem a la **terminal com a root**, des d’on podem executar canvis al
 
    ```bash
    mount -rw -o remount /
+
 
