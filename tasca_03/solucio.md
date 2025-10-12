@@ -1,4 +1,4 @@
-# Seguretat Lògica: recuperant accés a sistemes
+# T03: Seguretat Lògica: recuperant accés a sistemes
 **Autor:** Pol Serrano Aromí  
 **Data:** 7/10/2025  
 
@@ -165,5 +165,6 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
