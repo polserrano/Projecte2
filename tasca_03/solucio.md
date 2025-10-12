@@ -161,3 +161,6 @@ GRUB.
 
 En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes de recuperació com les mesures de seguretat necessàries per protegir un sistema Linux davant accessos no autoritzats.
 
+---
+- [Torna a la pàgina principal](../)
+
