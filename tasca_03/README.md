@@ -1,4 +1,4 @@
-# Seguretat Lògica: recuperant accés a sistemes
+# T03: Seguretat Lògica: recuperant accés a sistemes
 
 Aquesta tarda rebem un **encàrrec urgent** després d’una primera feina exitosa. El client ens demana **recuperar l’accés** a un portàtil amb **Zorin OS (Linux)** utilitzat per un directiu que ha **oblidat la contrasenya**. El dispositiu conté **documentació crítica**, per això treballarem amb una **còpia virtual del disc** per evitar danys a l’equip original.
 
@@ -23,6 +23,7 @@ Finalment, generarem un **informe tècnic** amb els passos seguits, les mesures 
 - Pots trobar la solució en l'arxiu [solucio.md](/tasca_03/solucio.md)
 
 - [Torna a la pàgina principal](../)
+
 
 
 
