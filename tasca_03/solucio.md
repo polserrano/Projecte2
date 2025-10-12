@@ -60,11 +60,11 @@ Per entrar en aquests mode, haurem de iniciar la màquina i un cop iniciada, pr�
 Un cop hagué fet click a la segona opció, us sortira un altre pop-up, on li tindrem que donar a la segona opcio, on sera basicament el recovery mode (mode de recuperació), un cop hageu fet un click, estarem en les opcions del mode de
 recuperació, en la nostra pràctica, la opció més adient és la de ‘root’, per això la seleccionarem.
 
-![imatge_3](/tasca_04/img/imatge_4.png)
+![imatge_4](/tasca_03/img/imatge_4.png)
 
 Un cop seleccionada la opció, oficialment, ens trobarem en la terminal amb el mode de root, això ens permetrà cambiar paràmetres i diferentes opcions. Aquests és l'aspecte de la terminal root.
 
-![imatge_4](/tasca_05/img/imatge_5.png)
+![imatge_5](/tasca_03/img/imatge_5.png)
 
 ---
 
@@ -74,25 +74,25 @@ Un cop seleccionada la opció, oficialment, ens trobarem en la terminal amb el m
 
       mount -rw -o remount /
 
-![imatge_3](/tasca_06/img/imatge_6.png)
+![imatge_6](/tasca_03/img/imatge_6.png)
 
 3.3.2. Un cop fet això, ara podrem veure que tenim accés al sistemes de fitxers amb la comanda:
 
       ls /
       
-![imatge_3](/tasca_07/img/imatge_7.png)
+![imatge_7](/tasca_03/img/imatge_7.png)
 
 3.3.3. Seguidament, localitzarem el nom d’usuari, per posteriorment canviar la contrasenya, per aixo ho farem amb una comanda molt bàsica:
 
       cat /etc/passwd | grep ‘home’
 
-![imatge_3](/tasca_08/img/imatge_8.png)
+![imatge_8](/tasca_03/img/imatge_8.png)
 
 I com podem veure gràcies a la comanda, el nom de l'usuari és: miquel.
 
 3.3.4. Per finalitzar, canviarem el password de l'usuari amb la comanda: ‘passwd miquel’ (en el nostre cas). I podrem canviar fàcilment, com es mostra en la imatge, si no recordo malament, el password haurà de tenir un mínim de 8 caràcters, finalment com podem veure la contrasenya s’ha actualitzat correctament.
 
-![imatge_3](/tasca_09/img/imatge_9.png)
+![imatge_9](/tasca_03/img/imatge_9.png)
 
 ---
 
@@ -165,6 +165,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
