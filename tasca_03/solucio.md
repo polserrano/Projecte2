@@ -5,17 +5,19 @@
 ---
 
 ## 1. Índex
-1. [Introducció a la tasca](#2-introducció-a-la-tasca)  
-2. [Procediment pas a pas](#3-procediment-pas-a-pas)  
-   - [Crear i preparar la MV](#31-crear-i-preparar-la-mv)  
-   - [Entrar en el GRUB](#32-entrar-en-el-grub)  
-   - [Comandes](#33-comandes)  
-   - [Fortificació de l’accés a GRUB](#34-fortificació-de-laccés-a-grub)  
-     - [Accedir com a root i generar un hash per el GRUB](#341-accedir-com-a-root-i-generar-un-hash-per-el-grub)  
-     - [Crear l’arxiu de seguretat de GRUB](#342-crear-larxiu-de-seguretat-de-grub)  
-     - [Fortificació Opcional](#343-fortificació-opcional)  
-   - [Webgrafia](#34-webgrafia)  
-3. [Conclusió de la tasca](#4-conclusió-de-la-tasca)  
+
+1. Índex
+2. Introducció a la tasca 
+3. Procediment pas a pas
+   - Crear i preparar la MV
+   - Entrar en el GRUB
+   - Comandes
+   - Fortificació de l’accés a GRUB
+     - Accedir com a root i generar un hash per el GRUB
+     - Crear l’arxiu de seguretat de GRUB
+     - Fortificació Opcional
+4. Webgrafia
+5. Conclusió de la tasca
 
 ![imatge_1](imatge_1.png)
 ---
@@ -163,4 +165,5 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
