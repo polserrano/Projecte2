@@ -52,7 +52,11 @@ Les activitats principals inclouen:
 
 ## 📁 Tasques
 
-Aquestes seran las tasques que hi hauran en aquests projecte.
+Aquestes seran las tasques que hi hauran en aquests projecte, poc a poc aquests apartat s'anirà actualitzant.
 
 - [Tasca 2](/tasca_02)
 - [Tasca 3](/tasca_03)
+
+---
+
+## Gràcies per visitar els meus repositoris!
