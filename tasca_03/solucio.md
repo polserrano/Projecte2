@@ -43,39 +43,38 @@ El procés té dues parts principals:
 
 ### 3.1 Crear i preparar la MV
 
-Primer de tot, crearem el nou entorn des de **VirtualBox**.  
-La meva recomanació és posar **8192 MB de RAM (8 GB)** amb **dos processadors**, ja que és una interfície gràfica i consumeix bastant.
+Primer de tot, crearem el nou entorn, desde VirtualBox, la meva recomanació és posar 8192 mb de ram (8GB) amb dos processadors per tampoc anar justos, ja que es una interfície d'entorn gràfic i consumeix bastant. Seguidament, el pas important, serà importar el disc virtual, on abans de donarli a ‘Finish’ al crar la màquina, anirem al apartat ‘Hard Disk’ i afegirem un disc virtual, com surt a la imatge.
 
-Abans de donar-li a `Finish` al crear la màquina, anirem a l’apartat **Hard Disk** i afegirem un disc virtual, com es mostra a la imatge següent:
-
-![imatge_1](imatge_1)
+![imatge_1](imatge_2.png)
 
 ---
 
 ### 3.2 Entrar en el GRUB
 
-Per entrar en aquest mode, haurem d’iniciar la màquina i, un cop iniciada, **prémer la tecla Mayús + una lletra**.  
-Quan aparegui el menú, seleccionarem la **segona opció** per entrar a les opcions avançades.
+Per entrar en aquests mode, haurem de iniciar la màquina i un cop iniciada, prémerla tecla Mayús + una lletra, un cop us apareix el menu, li donarem a la segona opció, per entrar a les opcions avançades.
 
-![imatge_2](imatge_2.png)
+![imatge_2](imatge_3.png)
 
-Després, apareixerà un altre pop-up, on seleccionarem de nou la **segona opció**, que correspon al **recovery mode**.  
-Dins d’aquest mode, triarem l’opció **root**, que ens permetrà canviar paràmetres del sistema.
+Un cop hagué fet click a la segona opció, us sortira un altre pop-up, on li tindrem que donar a la segona opcio, on sera basicament el recovery mode (mode de recuperació), un cop hageu fet un click, estarem en les opcions del mode de
+recuperació, en la nostra pràctica, la opció més adient és la de ‘root’, per això la seleccionarem.
 
-![imatge_3](imatge_3.png)
+![imatge_3](imatge_4.png)
 
-Ara ens trobem a la **terminal com a root**, des d’on podem executar canvis al sistema.
+Un cop seleccionada la opció, oficialment, ens trobarem en la terminal amb el mode de root, això ens permetrà cambiar paràmetres i diferentes opcions. Aquests és l'aspecte de la terminal root.
 
-![imatge_4](imatge_4.png)
+![imatge_4](imatge_5.png)
 
 ---
 
 ### 3.3 Comandes
 
-1. El sistema arrenca amb `init=/bin/bash` en mode només lectura.  
-   Per poder fer canvis, cal remuntar-lo en mode escriptura:
+3.3.1. Per defecte el sistema que arrenca amb init=/bin/bash està muntat en mode només lectura, així que phaurem de remuntar-ho per poder fer canvis:
 
-   ```bash
-   mount -rw -o remount /
+      ```bash
+      mount -rw -o remount /
+
+![imatge_3](imatge_6.png)
+
+
 
 
