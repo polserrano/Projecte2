@@ -17,6 +17,7 @@
    - [Webgrafia](#34-webgrafia)  
 3. [Conclusió de la tasca](#4-conclusió-de-la-tasca)  
 
+![imatge_1](imatge_1.png)
 ---
 
 ## 2. Introducció a la tasca
@@ -76,3 +77,4 @@ Ara ens trobem a la **terminal com a root**, des d’on podem executar canvis al
 
    ```bash
    mount -rw -o remount /
+
