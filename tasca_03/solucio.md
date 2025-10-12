@@ -145,8 +145,11 @@ I finalment, quedaría el script amb les millores opcionals algo així, un cop f
 Per acabar us deixo les webs amb les que he anat reawlitzant la tasca:
 
    ● https://www.gnu.org/software/grub/manual/grub/grub.html#Authentication
+   
    ● https://help.ubuntu.com/community/Grub2/Passwords
+   
    ● https://zorin.com/help/
+   
    ● https://www.digitalocean.com/community/tutorials/how-to-secure-grub
 
 --- 
@@ -157,3 +160,4 @@ Amb aquesta pràctica hem aconseguit recuperar l’accés a un sistema Zorin OS 
 GRUB.
 
 En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes de recuperació com les mesures de seguretat necessàries per protegir un sistema Linux davant accessos no autoritzats.
+
