@@ -20,6 +20,7 @@
 5. Conclusió de la tasca
 
 ![imatge_1](/tasca_03/img/imatge_1.png)
+
 ---
 
 ## 2. Introducció a la tasca
@@ -165,6 +166,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
