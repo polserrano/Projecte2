@@ -145,7 +145,7 @@ I finalment, quedaría el script amb les millores opcionals algo així, un cop f
 
 ### 4. Webgrafia
 
-Per acabar us deixo les webs amb les que he anat reawlitzant la tasca:
+Per acabar us deixo les webs amb les que he anat realitzant la tasca:
 
    ● https://www.gnu.org/software/grub/manual/grub/grub.html#Authentication
    
@@ -166,6 +166,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
