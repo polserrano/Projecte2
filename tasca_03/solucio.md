@@ -101,7 +101,7 @@ I com podem veure gràcies a la comanda, el nom de l'usuari és: miquel.
 
 En aquesta part configurarem una contrasenya al GRUB per evitar que qualsevol usuari pugui entrar al mode de recuperació o editar les opcions d’arrencada. Això permet protegir el sistema davant accessos no autoritzats.
 
-Per fortificar l’accés ho farem mitjançant uns varios pasos.
+Per fortificar l’accés ho farem mitjançant uns varios pasos que he obtingut de diferentes pàgines que les dixo abaix, en l’apartat de ‘webgrafia’.
 
 3.4.1. Accedir com a root i generar un hash per el GRUB
 
@@ -166,6 +166,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
