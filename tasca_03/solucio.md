@@ -129,9 +129,9 @@ en l’arxiu nano.
 
 3.4.3 Fortificació Opcional
 
-També dins de l’arxiu nano que hem creat anteriorment podem afegir un codi molt bàsic que també he trobat en una pàgina, que bàsicament el que fa és, que només l’usuari amb el rol de admin pugui arrencar certes entrades. Llavors el codi que hem de afegir és el següent:
+També dins de l’arxiu nano que hem creat anteriorment podem afegir un codi molt bàsic que també he trobat en una pàgina, que bàsicament el que fa és, que només l’usuari amb el rol de admin pugui arrencar certes entrades i canviar altres parametres importants com ja poden ser comandes amb ‘sudo’. Llavors el codi que hem de afegir és el següent:
 
-      menuentry "Zorin OS - Mode Recuperació" --unrestricted {
+      menuentry "Zorin OS - Mode Recuperació" {
       set root=(hd0,1)
       linux /boot/vmlinuz-... root=/dev/sda1 ro recovery nomodeset
       initrd /boot/initrd.img-...
@@ -166,6 +166,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
