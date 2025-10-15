@@ -123,9 +123,7 @@ Primer de tot crear l’arxiu amb el nom: ‘arxiu_fortificacio’, llavors fare
 
 Un cop actualitzat el codi, el guardarem ‘Ctrl+x’ i introduirem la comanda: ‘sudo update-grub’ per regenerar la configuració nova del grub.
 
-Un cop creat l’arxiu, podrem veure que quan reiniciem la màquina i si algú vol entrar
-al GRUB per canviar algún paràmetre ens demanarà el password que hem introduït
-en l’arxiu nano.
+Un cop creat l’arxiu, podrem veure que quan reiniciem la màquina i si algú vol entrar al GRUB per canviar algún paràmetre ens demanarà el password que hem introduït en l’arxiu nano.
 
 3.4.3 Fortificació Opcional
 
@@ -139,7 +137,14 @@ També dins de l’arxiu nano que hem creat anteriorment podem afegir un codi mo
 
 ![imatge_12](/tasca_03/img/imatge_12.png)
 
-I finalment, quedaría el script amb les millores opcionals algo així, un cop finalitzat, recordem, el guardarem ‘Ctrl+x’ i introduirem la comanda: ‘sudo update-grub’ per regenerar la configuració nova del grub. Amb això tindrem completament el nostre OS de Zorin completament fortificat.
+I finalment, quedaría el script amb les millores opcionals algo així, un cop finalitzat, recordem, el guardarem ‘Ctrl+x’ i introduirem la comanda: ‘sudo update-grub’ per regenerar la configuració nova del grub. Amb això tindrem completament el nostre OS de Zorin completament fortificat. Haig d'afegir que a part d'aquesta fortificació existeixen moltes més tècniques per reforçar i de diferents maneres, com ja pot ser:
+
+- Xifrar particions: Si la partició /boot està en text pla, algo podria substituir el nucli o fitxers del GRUB, en canvi si nosaltres xifrem el /boot (per exemple amb LUKS) només podrás modificar aquests arxius si tens la clau de desxifratge.
+
+- BIOS/UEFI: Una altre seria posar-hi contrasenya a la BIOS/UEFI, per així impedir l'arrencada desde altres dispositius externs
+
+Entre d’elles hi han moltes altres tècniques, aquestes són unes de les que s'assemblen més interessants.
+
 
 ---
 
@@ -166,6 +171,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
