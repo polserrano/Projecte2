@@ -153,7 +153,7 @@ Per acabar us deixo les webs amb les que he anat realitzant la tasca:
    
    ● https://zorin.com/help/
    
-   ● https://www.digitalocean.com/community/tutorials/how-to-secure-grub-with-password-on-ubuntu
+   ● [https://www.digitalocean.com/community/tutorials/how-to-secure-grub-with-password-on-ubuntu](https://waytoit.wordpress.com/2019/09/15/protegiendo-grub-en-ubuntu-server/)
 
 --- 
 
@@ -166,6 +166,7 @@ En definitiva, s’ha demostrat la importància de conèixer tant els mecanismes
 
 ---
 - [Torna a la pàgina principal](../)
+
 
 
 
