@@ -56,7 +56,7 @@ Aquestes seran las tasques que hi hauran en aquests projecte, poc a poc aquests 
 
 - [Tasca 2](/tasca_02)
 - [Tasca 3](/tasca_03)
-- [Tasca 11](/tasca_11)
+- [Tasca 11](/tasca_011)
 
 ---
 
